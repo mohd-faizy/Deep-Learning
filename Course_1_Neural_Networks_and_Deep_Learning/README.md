@@ -7,3 +7,5 @@
 <p align='center'>
   <a href="#"><img src="https://github.com/mohd-faizy/Deep-Learning/blob/main/Course_1_Neural_Networks_and_Deep_Learning/01_NN_DL_img/01_Learning_Path.png?raw=true" alt="Learning_Path"></a>
 </p>
+
+> :heavy_check_mark:[Download](https://github.com/mohd-faizy/Deep-Learning/raw/main/Course_1_Neural_Networks_and_Deep_Learning/01_NN_DL_img/01_Learning_Path.png)
