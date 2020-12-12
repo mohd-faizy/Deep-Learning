@@ -27,7 +27,11 @@ Deep learning is part of a broader family of machine learning methods based on a
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][stackexchange ai]
 
 [twitter]: https://twitter.com/F4izy
-[linkedin]: https://www.linkedin.com/in/faizy-mohd-836573122/
+[linkedin]: https://www.linkedin.com/in/mohd-faizy/
 [stackexchange ai]: https://ai.stackexchange.com/users/36737/cypher
 
 ---
+
+![Faizy's github stats](https://github-readme-stats.vercel.app/api?username=mohd-faizy&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-faizy&layout=compact)](https://github.com/mohd-faizy/github-readme-stats)
