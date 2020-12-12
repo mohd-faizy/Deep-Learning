@@ -13,3 +13,21 @@
 # Deep Learning
 
 Deep learning is part of a broader family of machine learning methods based on artificial neural networks with representation learning. Learning can be supervised, semi-supervised or unsupervised
+
+<p align='center'>
+  <a href="#">
+    <img src='https://github.com/mohd-faizy/Deep-Learning/blob/main/dl_img/DL_timeline.jpg?raw=true' width=800px height=400px alt="">
+  </a>
+</p>
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][stackexchange ai]
+
+[twitter]: https://twitter.com/F4izy
+[linkedin]: https://www.linkedin.com/in/faizy-mohd-836573122/
+[stackexchange ai]: https://ai.stackexchange.com/users/36737/cypher
+
+---
